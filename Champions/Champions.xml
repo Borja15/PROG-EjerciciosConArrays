@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CHAMPIONS>
+   <PARTIDO>
+      <EQUIPO>Bayern</EQUIPO>
+      <EQUIPO>Chelsea</EQUIPO>
+   </PARTIDO>
+   <PARTIDO>
+      <EQUIPO>Bayern</EQUIPO>
+      <EQUIPO>R. Madrid</EQUIPO>
+   </PARTIDO>
+   <PARTIDO>
+      <EQUIPO>Chelsea</EQUIPO>
+      <EQUIPO>Barcelona</EQUIPO>
+   </PARTIDO>
+</CHAMPIONS>
